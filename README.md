@@ -1,4 +1,4 @@
-# Hai 👋 Myself Phaniraj [![Mail Badge](https://img.shields.io/badge/-phaniitng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phaniitng@gmail.com)](Phaniitng) [![Twitter Badge](https://img.shields.io/badge/-Phaniraj-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/phaniitng)](https://twitter.com/SulthanNK) [![Linkedin Badge](https://img.shields.io/badge/-Phaniraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phaniraj-k/)](https://www.linkedin.com/in/phaniraj-k/) 
+# Hai 👋 Myself Phaniraj [![Twitter Badge](https://img.shields.io/badge/-Phaniraj-1ca0f1?style=flat-square&logo=twitter&logoColor=black&link=https://twitter.com/phaniitng)](https://twitter.com/phaniitng) [![Linkedin Badge](https://img.shields.io/badge/-Phaniraj-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/phaniraj-k/)](https://www.linkedin.com/in/phaniraj-k/) 
 ---
 <img align="right" width="350" height="250" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
